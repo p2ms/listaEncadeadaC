@@ -57,7 +57,7 @@ int main(){
     listaRFunc = NULL;
     int num, opcao;
     char nom[100];
-    for(int i=0;i<3;i++){
+    for(int i=0;i<10;i++){
         printf("Escreva o nome do funconario:");
         scanf("%s", nom);
         printf("Escreva o numero de matricula: ");
